@@ -1,0 +1,44 @@
+header{
+    background-color: RGBA(33,37,41,var(--bs-bg-opacity,1));;
+    padding: 8px;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
+
+.imagens {
+    height: 250px;
+    object-fit: cover;
+    max-width: 100%;
+}
+
+.produtos {
+    height: 500px;
+    object-fit: cover;
+    max-width: 100%;
+}
+
+#carousel-exemplo {
+    margin-bottom: 16px;
+}
+
+.carousel-inner .item img {
+object-fit: cover;
+
+
+}
+
+.card {
+background-color: #fff;
+border: none;
+}
+
+footer {
+background-color: RGBA(33,37,41,var(--bs-bg-opacity,1));
+color: #fff;
+padding: 8px 0;
+font-style: italic;
+text-align: center;
+}
